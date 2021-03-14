@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @tabthorpe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Git according to the [Great Dictator](https://www.youtube.com/watch?v=4XpnKHJAok8). 
 
-<!---
-tabthorpe/tabthorpe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Loosely quoth Linus
+
+> If you use or like SVN or CVS, you are stupid and ugly.
